@@ -25,4 +25,5 @@ hay un error que cuando llamo a la tabla con
 
 ![comando desde terminal](image3.png)
 
-en el END no me deja tocar nada se queda ai por un largo rato tube que salir del contenedor y volver a llamarlo para ingresar los datos 
+En el END no me deja tocar nada se queda ai por un largo rato 
+Salir del contenedor y volver a llamarlo para ingresar los datos 
